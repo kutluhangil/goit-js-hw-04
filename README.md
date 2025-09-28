@@ -118,3 +118,4 @@ profile.getInfo();
   <p>These exercises strengthen your foundation in JavaScript and help you write cleaner, reusable code 🚀</p>
 </body>
 </html>
+
