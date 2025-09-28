@@ -5,11 +5,24 @@
   <title>📘 JavaScript Homework 4</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <style>
-    body {font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif; line-height: 1.6; margin: 40px; color: #1e293b;}
+    body {
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+      line-height: 1.6;
+      margin: 40px;
+      color: #1e293b;
+    }
     h1 {font-size: 28px; margin-bottom: 8px;}
     h2 {margin-top: 28px; color: #0f172a;}
-    pre {background: #f1f5f9; padding: 14px; border-radius: 8px; overflow-x: auto;}
-    code {font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; color: #334155;}
+    pre {
+      background: #f1f5f9;
+      padding: 14px;
+      border-radius: 8px;
+      overflow-x: auto;
+    }
+    code {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+      color: #334155;
+    }
     .ok {color: green;}
   </style>
 </head>
@@ -106,7 +119,7 @@ profile.getInfo();
 </code></pre>
 
   <h2>📌 Summary &amp; Reflection</h2>
-  <p>Great work! 🎉 With this homework, you practiced:</p>
+  <p>With this homework, you practiced:</p>
   <ul>
     <li>Creating and updating objects</li>
     <li>Iterating over object properties</li>
